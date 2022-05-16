@@ -1,2 +1,0 @@
-# Mulesoft1
-Queries
